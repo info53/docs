@@ -1,4 +1,4 @@
----
+--- Hi! Myself Satnam Singh , a BCA student---
 title: Importing your projects to GitHub
 intro: 'You can import your source code to {% data variables.product.product_name %} using a variety of different methods.'
 shortTitle: Importing your projects
